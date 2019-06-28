@@ -15,4 +15,9 @@ tara twice lights...
 ano kulay ng buhok mo
 >>>>>>> b82deb6e1cede964b24d04541d6d85bfe48c7f9b
 
+<<<<<<< HEAD
 pasali jissa
+=======
+
+quit nako jissa
+>>>>>>> 61c1ac42d91b084dffb3cc2a142a780d75e6c33d
