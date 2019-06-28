@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Aianne Gail Tingson
 Aianne
 
 dalkomhan chokollit aiseukeurimcheoreom
+=======
+hello dsjfhskdfh
+hoy
+>>>>>>> 13c04858c56af6c8ef8f188cbf1fdad30b8d07fe
