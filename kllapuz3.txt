@@ -1,4 +1,8 @@
 Karlvin Lapuz
 Kavs
+<<<<<<< HEAD
 
-Hello
+HelloHello
+=======
+Hello-jasfer
+>>>>>>> 49a4b65af92ad5bd6e0a4b97938fc6f95045f20f

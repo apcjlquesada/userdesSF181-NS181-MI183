@@ -1,4 +1,8 @@
 Katrina Kin G. Maga
 Kat
 
+Hello<<<<<<< HEAD
 Hello
+=======
+Hi-jasfer 
+>>>>>>> 49a4b65af92ad5bd6e0a4b97938fc6f95045f20f
