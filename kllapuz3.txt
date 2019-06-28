@@ -5,4 +5,8 @@ Kavs
 HelloHello
 =======
 Hello-jasfer
+<<<<<<< HEAD
 >>>>>>> 49a4b65af92ad5bd6e0a4b97938fc6f95045f20f
+=======
+Hai - Kat
+>>>>>>> 5f00f3d77577c202015587e58240cf07e6eb35c2
