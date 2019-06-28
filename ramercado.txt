@@ -2,4 +2,8 @@ Rainer Maalik A. Mercado
 Maalik
 
 
+<<<<<<< HEAD
 Maalik hello, it's bard
+=======
+177013
+>>>>>>> 763f25d81459eafc3246a563b99465332a9ab8a3
